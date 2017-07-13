@@ -10,3 +10,4 @@
 * [Reimplementation of Temporal Difference Learning on 2048](https://github.com/chychen/2048_TD_RL)
 * [Experiment with Different Hyper-Parameters on Cifar10 by implementing NIN](https://github.com/chychen/cifar10_NIN_tensorflow)
 * [Practicing Unit Testing on Toy Example with Google Testing Framework](https://github.com/chychen/google_testing_assignment)
+* [Practicing Fine Tune on VGG19](https://github.com/chychen/cifar10_retrain_vgg19)
