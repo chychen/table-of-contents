@@ -3,6 +3,7 @@
 ## self project
 * [Online Handwriting Recognition with Multi-layers Bidirectional LSTM](https://github.com/chychen/air_writing)
 * [Traffic Flow Prediction with 3D Convolution in Taipei's Road Network](https://github.com/chychen/traffic_flow_prediction)
+* [NBA script generation with RNN + WGAN](https://github.com/chychen/nba_scrip_generation)
 
 ## school porject
 * [Reimplementation of Deep Q-Learning based on OpenAI Breakout](https://github.com/chychen/Breakout_deep_q_learning)
