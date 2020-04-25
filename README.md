@@ -1,14 +1,9 @@
-# table-of-contents
+# Table-of-Contents of ML/DL projects
 
-## self project
+## Implementation of Conference Papers/ Self-Projects
+* [DL Toolkit of Tensorflow 2.0](https://github.com/chychen/tf_rlib)
+* [Generate the ghosting defensive strategies given offensive sketch, ACMMM 2019](https://github.com/chychen/BasketballGAN)
+* [GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training, ACCV 2018](https://github.com/chychen/tf2-ganomaly)
+* [NBA script generation with RNN + WGAN, ACMMM 2018](https://github.com/chychen/bball_defensive_strategies_generation)
 * [Online Handwriting Recognition with Multi-layers Bidirectional LSTM](https://github.com/chychen/air_writing)
-* [Traffic Flow Prediction with DAE + 3D-Conv in Taipei's Road Network](https://github.com/chychen/traffic_flow_prediction)
-* [NBA script generation with RNN + WGAN](https://github.com/chychen/nba_scrip_generation)
-
-## school porject
-* [Reimplementation of Deep Q-Learning based on OpenAI Breakout](https://github.com/chychen/Breakout_deep_q_learning)
-* [Reimplementation of DDPG based on OpenAI Pendulum](https://github.com/chychen/Pendulum_DDPQ)
-* [Reimplementation of Temporal Difference Learning on 2048](https://github.com/chychen/2048_TD_RL)
-* [Experiment with Different Hyper-Parameters on Cifar10 by implementing NIN](https://github.com/chychen/cifar10_NIN_tensorflow)
-* [Practicing Unit Testing on Toy Example with Google Testing Framework](https://github.com/chychen/google_testing_assignment)
-* [Practicing Fine Tune on VGG19](https://github.com/chychen/cifar10_retrain_vgg19)
+* [Traffic Flow Prediction with DAE + 3D-Conv in Taipei's Road Network, 2017](https://github.com/chychen/traffic_flow_prediction)
